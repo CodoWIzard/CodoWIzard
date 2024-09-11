@@ -1,6 +1,6 @@
 ### Greetings!
 
-<!--
+
 My name is Jayden.
 
 I love computer science and science in general. I have many questions and I love finding answers for them.
@@ -31,4 +31,4 @@ I'm mainly interested in web development & security and embedded systems.
 
 🚩My career goal is to be an expert in engineering & programming and be a great mathematician.
 Someday I'd like to make software/hardware for the medical, economical or space branches.
--->
+
