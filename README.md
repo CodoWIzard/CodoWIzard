@@ -1,28 +1,26 @@
 ### Greetings!
 
 
-My name is Jayden.
+My name is **Jayden.**
 
 I love computer science and science in general. I have many questions and I love finding answers for them.
 I'm mainly interested in web development & security and embedded systems.
 
-🧠My skills...
+🧠**My main skills...**
 - HTML/CSS
 - JavaScript
 - C#
 - PHP
 - SQL
-- Managing databases
 - Microsoft (AZ-900)
-- Kali Linux
 
-🚀Skills I want to learn...
+🚀**Skills I want to learn...**
 - iOS Development (Xcode, Swift, etc)
 - A better understanding of Electrical engineering and Embedded Systems
 - Pentesting
 
 
-💭If i'm not working/studying, you'd see me...
+💭**If i'm not working/studying, you'd see me...**
 - Nursing bonsai trees
 - Reading books (philosophy & science)
 - Programming & CTF
