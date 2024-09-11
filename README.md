@@ -7,12 +7,7 @@ I love computer science and science in general. I have many questions and I love
 I'm mainly interested in web development & security and embedded systems.
 
 🧠**My main skills...**
-- HTML/CSS
-- JavaScript
-- C#
-- PHP
-- SQL
-- Microsoft (AZ-900)
+- HTML/CSS, JavaScript, C#, PHP, SQL, Microsoft (AZ-900)
 
 🚀**Skills I want to learn...**
 - iOS Development (Xcode, Swift, etc)
