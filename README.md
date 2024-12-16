@@ -8,6 +8,7 @@ I'm mainly interested in web development & security and embedded systems.
 
 🧠**My main skills...**
 - HTML/CSS, JavaScript, C#, PHP, SQL, Microsoft (AZ-900)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 🚀**Skills I want to learn...**
 - iOS Development (Xcode, Swift, etc)
@@ -16,7 +17,6 @@ I'm mainly interested in web development & security and embedded systems.
 
 
 💭**If i'm not working/studying, you'd see me...**
-- Nursing bonsai trees
 - Reading books (philosophy & science)
 - Programming & CTF
 - Learn the piano
