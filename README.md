@@ -4,7 +4,7 @@
 My name is **Jayden.**
 
 I love computer science and science in general. I have many questions and I love finding answers for them.
-I'm mainly interested in software engineering and security & embedded systems.
+I'm mainly interested in software engineering and security.
 
 🧠**My main skills...**
 
@@ -12,12 +12,12 @@ I'm mainly interested in software engineering and security & embedded systems.
 
 🚀**Skills I want to learn...**
 - Being an even better universal backend engineer!
-- Embedded Systems technology
-- Linux & Security
+- Data science
+- Deeper understanding of Cyber Security
 
 💭**If i'm not working/studying, you'd see me...**
-- Playing baseball
-- Programming & CTF
+- Playing or watching baseball
+- Enjoying the weather
 - Taking care of my plants
 
 🚩My career goal is to be an expert in engineering & programming and be a great mathematician.
