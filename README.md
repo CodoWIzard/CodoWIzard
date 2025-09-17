@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Jayden!  
 
 Welcome to my corner of GitHub 🚀  
-I’m a **developer, designer, and explorer** who loves computer science, security, and asking big questions.  
+I’m a **developer, designer, and explorer**!  
 When I’m not building something, I’m probably thinking about how the universe (or code) works.  
 
 ---
