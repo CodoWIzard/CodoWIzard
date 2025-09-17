@@ -30,4 +30,23 @@ Here’s what I’m most comfortable working with:
 ---
 
 ## 🌟 On My Radar  
-Things I want
+Things I want to master next:  
+- 🌐 Becoming an even better **universal backend engineer**  
+- 📊 Diving deeper into **data science**  
+- 🛡️ Expanding my knowledge in **cyber security**  
+
+---
+
+## 🎯 My Vision  
+I want to blend **engineering, programming, and mathematics** to create impactful solutions.  
+Someday, I’d love to contribute to software/hardware in the **medical, financial, or space industries**. 🌌  
+
+---
+
+## 📊 GitHub Stats  
+[![Jayden’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CodoWIzard&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+### ✨ Fun Fact  
+My plants are thriving almost as much as my GitHub commits 🌱👨‍💻
