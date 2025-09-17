@@ -23,4 +23,4 @@ I'm mainly interested in software engineering and security.
 🚩My career goal is to be an expert in engineering & programming and be a great mathematician.
 Someday I'd like to make software/hardware for the medical, financial or space branches.
 
-[![CodoWIzard g's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodoWIzard)](https://github.com/CodoWIzard/edit/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodoWIzard)](https://github.com/anuraghazra/github-readme-stats)
