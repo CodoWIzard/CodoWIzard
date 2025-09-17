@@ -1,17 +1,16 @@
 # 👋 Hey there, I’m Jayden!  
 
 Welcome to my corner of GitHub 🚀  
-I’m a **developer, learner, and explorer** who loves computer science, security, and asking big questions.  
+I’m a **developer, designer, and explorer** who loves computer science, security, and asking big questions.  
 When I’m not building something, I’m probably thinking about how the universe (or code) works.  
 
 ---
 
 ## 🧠 About Me  
-- 💻 Passionate about **software engineering** & **cyber security**  
-- 📊 Curious about **data science** & **mathematics**  
-- 🌱 Currently growing my skills in backend development  
-- ⚾ Big baseball fan (on the field or on screen!)  
-- 🌿 Plant caretaker & weather enjoyer  
+- 💻 Passionate about **building engaging websites** & **creating unforgettable designs**  
+- 🌱 Currently learning **Golang** & getting a deeper understanding of **ReactJS**  
+- 💭 I love philosophy and understanding thoughts of others.  
+- ⛰️ Enjoying adventure by climbing and hiking
 
 ---
 
@@ -29,17 +28,9 @@ Here’s what I’m most comfortable working with:
 
 ---
 
-## 🌟 On My Radar  
-Things I want to master next:  
-- 🌐 Becoming an even better **universal backend engineer**  
-- 📊 Diving deeper into **data science**  
-- 🛡️ Expanding my knowledge in **cyber security**  
-
----
-
 ## 🎯 My Vision  
-I want to blend **engineering, programming, and mathematics** to create impactful solutions.  
-Someday, I’d love to contribute to software/hardware in the **medical, financial, or space industries**. 🌌  
+I want to scale up to becoming a **solo entrepreneur** in website building!  
+Someday, I’d love to contribute to the engineering field such as drones, which also really fascinates me. 🌌  
 
 ---
 
