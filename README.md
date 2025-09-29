@@ -28,8 +28,7 @@ Here’s what I’m most comfortable working with:
 ---
 
 ## 🎯 My Vision  
-I want to scale up to becoming a **solo entrepreneur** in website building!  
-Someday, I’d love to contribute to the engineering field such as drones, which also really fascinates me. 🌌  
+I truly love building flashy and functional websites, with or without a team. Though my passion is to get into the **cybersec** & **cloud computing** field. 
 
 ---
 
