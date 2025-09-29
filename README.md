@@ -36,8 +36,3 @@ Someday, I’d love to contribute to the engineering field such as drones, which
 
 ## 📊 GitHub Stats  
 [![Jayden’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CodoWIzard&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-### ✨ Fun Fact  
-My plants are thriving almost as much as my GitHub commits 🌱👨‍💻
